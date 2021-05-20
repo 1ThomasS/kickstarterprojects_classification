@@ -1,1 +1,1 @@
-# kickstarterprojects_classification
+# Kick Starter Projects Classification
